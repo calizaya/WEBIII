@@ -12,4 +12,6 @@ if (TRUE) { // Si esta logueado   //$link=
 }
 
 // Comentario
+
+//El caramelo esta un poco acido y algo picanton xD
 ?>
