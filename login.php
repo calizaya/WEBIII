@@ -11,4 +11,5 @@ if (TRUE) { // Si esta logueado   //$link=
 	echo 'Usuario no autorizado';
 }
 
+// Comentario
 ?>
